@@ -14,56 +14,56 @@
 
 ---
 
-## 👥 Our Team
+## Our Team
 
 <div align="center">
 
 | Role | Member | GitHub |
 |:----:|:------:|:------:|
-| **👑 Owner & Lead Developer** | **ChoruOfficial** | [![ChoruOfficial](https://img.shields.io/badge/@ChoruOfficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChoruOfficial) |
-| **💻 Developer** | **itsmejrb** | [![itsmejrb](https://img.shields.io/badge/@itsmejrb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmejrb) |
-| **💻 Developer** | **jonellcc** | [![jonellcc](https://img.shields.io/badge/@jonellcc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonellcc) |
+| <img src="https://img.shields.io/badge/Owner_--_Lead_Dev-FFD700?style=flat-square" /> | **ChoruOfficial** | [![ChoruOfficial](https://img.shields.io/badge/@ChoruOfficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChoruOfficial) |
+| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **itsmejrb** | [![itsmejrb](https://img.shields.io/badge/@itsmejrb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmejrb) |
+| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **jonellcc** | [![jonellcc](https://img.shields.io/badge/@jonellcc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonellcc) |
 
 </div>
 
 ---
 
-## 🎯 Our Mission
+## Our Mission
 
 > Building the future of cloud development — a **browser-based IDE** that brings the full power of VS Code to your browser, powered by **Deno** and **Rust**, with **AI integration** at its core.
 
 ---
 
-## 📦 Projects
+## Projects
 
-### 🚀 [Exocore Web](https://github.com/Exocore-Organization/exocore-web)
+### [Exocore Web](https://github.com/Exocore-Organization/exocore-web)
 
 A full-featured browser-based IDE and developer panel with:
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🖥️</td>
+      <td align="center"><img src="https://img.shields.io/badge/Editor-Monaco_Ace-8b5cf6?style=flat-square" /></td>
       <td><b>Code Editor</b> — Monaco + Ace dual engine with LSP support</td>
     </tr>
     <tr>
-      <td align="center">💻</td>
-      <td><b>Terminal</b> — xterm.js PTY with bash/zsh/fish support</td>
+      <td align="center"><img src="https://img.shields.io/badge/Terminal-xterm.js-8b5cf6?style=flat-square" /></td>
+      <td><b>Terminal</b> — PTY with bash/zsh/fish support</td>
     </tr>
     <tr>
-      <td align="center">👥</td>
+      <td align="center"><img src="https://img.shields.io/badge/Multiplayer-Collab-8b5cf6?style=flat-square" /></td>
       <td><b>Multiplayer</b> — Real-time collaborative editing with rooms & chat</td>
     </tr>
     <tr>
-      <td align="center">☁️</td>
+      <td align="center"><img src="https://img.shields.io/badge/Cloud-GDrive_GitHub-8b5cf6?style=flat-square" /></td>
       <td><b>Cloud Sync</b> — Google Drive & GitHub OAuth integration</td>
     </tr>
     <tr>
-      <td align="center">🧩</td>
+      <td align="center"><img src="https://img.shields.io/badge/Extensions-Marketplace-8b5cf6?style=flat-square" /></td>
       <td><b>Extensions</b> — Plugin marketplace with custom extension.json</td>
     </tr>
     <tr>
-      <td align="center">🎮</td>
+      <td align="center"><img src="https://img.shields.io/badge/Gamification-XP_Leaderboard-8b5cf6?style=flat-square" /></td>
       <td><b>Gamification</b> — XP system, achievements & leaderboard</td>
     </tr>
   </table>
@@ -73,19 +73,23 @@ A full-featured browser-based IDE and developer panel with:
 Tech Stack: Deno · TypeScript · Rust · Express 5 · Monaco Editor · xterm.js
 ```
 
-### 🤖 [Exocode](https://github.com/Exocore-Organization/Exocode)
+### [Exocode](https://github.com/Exocore-Organization/Exocode)
 
-> **An AI agent protocol for multi-AI orchestration.**  
+<div align="center">
+  <img src="https://img.shields.io/b/status/EARLY%20PLANNING-orange?style=for-the-badge" />
+</div>
+
+> An AI agent protocol for multi-AI orchestration.  
 > Exocode is designed to be a protocol that connects multiple AI models together — enabling them to collaborate, share context, and work as a unified system.  
-> 🔮 *Currently in early planning phase — stay tuned.*
+> *Currently in early planning phase — stay tuned.*
 
-### 🐍 [ExocoreDefaultTemplatePython](https://github.com/Exocore-Organization/ExocoreDefaultTemplatePython)
+### [ExocoreDefaultTemplatePython](https://github.com/Exocore-Organization/ExocoreDefaultTemplatePython)
 
 Python starter template for Exocore projects.
 
 ---
 
-## 📊 Organization Stats
+## Organization Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChoruOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="48%" />
@@ -94,7 +98,7 @@ Python starter template for Exocore projects.
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
   <a href="https://github.com/Exocore-Organization"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -105,7 +109,7 @@ Python starter template for Exocore projects.
 <br>
 
 <div align="center">
-  <sub>© 2026 Exocore Organization — Built with ❤️ from the Philippines 🇵🇭</sub>
+  <sub>2026 Exocore Organization — Built with from the Philippines</sub>
 </div>
 
 <br>
