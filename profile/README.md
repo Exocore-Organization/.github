@@ -21,8 +21,12 @@
 | Role | Member | GitHub |
 |:----:|:------:|:------:|
 | <img src="https://img.shields.io/badge/Owner_--_Lead_Dev-FFD700?style=flat-square" /> | **ChoruOfficial** | [![ChoruOfficial](https://img.shields.io/badge/@ChoruOfficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChoruOfficial) |
-| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **itsmejrb** | [![itsmejrb](https://img.shields.io/badge/@itsmejrb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmejrb) |
-| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **jonellcc** | [![jonellcc](https://img.shields.io/badge/@jonellcc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonellcc) |
+| <img src="https://img.shields.io/badge/Core_Dev-8b5cf6?style=flat-square" /> | **itsmejrb** | [![itsmejrb](https://img.shields.io/badge/@itsmejrb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmejrb) |
+| <img src="https://img.shields.io/badge/Core_Dev-8b5cf6?style=flat-square" /> | **jonellcc** | [![jonellcc](https://img.shields.io/badge/@jonellcc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonellcc) |
+| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **Toshidevmain** | [![Toshidevmain](https://img.shields.io/badge/@Toshidevmain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toshidevmain) |
+| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **hutchingd** | [![hutchingd](https://img.shields.io/badge/@hutchingd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hutchingd) |
+| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **itzmefranz** | [![itzmefranz](https://img.shields.io/badge/@itzmefranz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzmefranz) |
+| <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **AtsushiNakajima14** | [![AtsushiNakajima14](https://img.shields.io/badge/@AtsushiNakajima14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtsushiNakajima14) |
 
 </div>
 
