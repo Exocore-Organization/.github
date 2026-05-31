@@ -1,0 +1,2 @@
+# .github
+🏢 Exocore Organization Profile
