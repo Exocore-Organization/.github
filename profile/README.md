@@ -27,8 +27,7 @@
 | <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **hutchingd** | [![hutchingd](https://img.shields.io/badge/@hutchingd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hutchingd) |
 | <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **itzmefranz** | [![itzmefranz](https://img.shields.io/badge/@itzmefranz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzmefranz) |
 | <img src="https://img.shields.io/badge/Developer-8b5cf6?style=flat-square" /> | **AtsushiNakajima14** | [![AtsushiNakajima14](https://img.shields.io/badge/@AtsushiNakajima14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtsushiNakajima14) |
-**lianecagara** | [![lianecagara](https://img.shields.io/badge/@lianecagara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lianecagara) |
-| <img src="https://img.shields.io/badge/Core_Dev-8b5cf6?style=flat-square" /> | 
+| <img src="https://img.shields.io/badge/Core_Dev-8b5cf6?style=flat-square" /> | **lianecagara** | [![lianecagara](https://img.shields.io/badge/@lianecagara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lianecagara) |
 
 </div>
 
@@ -73,53 +72,4 @@ A full-featured browser-based IDE and developer panel with:
       <td><b>Gamification</b> — XP system, achievements & leaderboard</td>
     </tr>
   </table>
-</div>
-
-```
-Tech Stack: Deno · TypeScript · Rust · Express 5 · Monaco Editor · xterm.js
-```
-
-### [Exocode](https://github.com/Exocore-Organization/Exocode)
-
-<div align="center">
-  <img src="https://img.shields.io/b/status/EARLY%20PLANNING-orange?style=for-the-badge" />
-</div>
-
-> An AI agent protocol for multi-AI orchestration.  
-> Exocode is designed to be a protocol that connects multiple AI models together — enabling them to collaborate, share context, and work as a unified system.  
-> *Currently in early planning phase — stay tuned.*
-
-### [ExocoreDefaultTemplatePython](https://github.com/Exocore-Organization/ExocoreDefaultTemplatePython)
-
-Python starter template for Exocore projects.
-
----
-
-## Organization Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoruOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoruOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&count_private=true" width="38%" />
-</div>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://github.com/Exocore-Organization"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:exocoreai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ChoruOfficial"><img src="https://img.shields.io/badge/Owner-ChoruOfficial-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>2026 Exocore Organization — Built with from the Philippines</sub>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,24,30&section=footer" width="100%" />
 </div>
